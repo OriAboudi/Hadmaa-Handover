@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-../src/include/cpp-httplib/httplib.h
+../src/lib/cpp-httplib/httplib.h
 io.h
 -
 winsock2.h

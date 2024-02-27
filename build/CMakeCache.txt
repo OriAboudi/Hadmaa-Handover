@@ -350,10 +350,10 @@ ZLIB_LIBRARY_DEBUG:FILEPATH=ZLIB_LIBRARY_DEBUG-NOTFOUND
 ZLIB_LIBRARY_RELEASE:FILEPATH=/usr/lib/aarch64-linux-gnu/libz.so
 
 //Value Computed by CMake
-httplib_BINARY_DIR:STATIC=/home/cvt/Documents/ORI_IDF/Hadmaa-Handover/build/src/include/cpp-httplib
+httplib_BINARY_DIR:STATIC=/home/cvt/Documents/ORI_IDF/Hadmaa-Handover/build/src/lib/cpp-httplib
 
 //Value Computed by CMake
-httplib_SOURCE_DIR:STATIC=/home/cvt/Documents/ORI_IDF/Hadmaa-Handover/src/include/cpp-httplib
+httplib_SOURCE_DIR:STATIC=/home/cvt/Documents/ORI_IDF/Hadmaa-Handover/src/lib/cpp-httplib
 
 
 ########################

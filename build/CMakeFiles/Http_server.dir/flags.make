@@ -6,5 +6,5 @@ CXX_FLAGS =   -pthread
 
 CXX_DEFINES = -DCPPHTTPLIB_ZLIB_SUPPORT
 
-CXX_INCLUDES = -isystem /home/cvt/Documents/ORI_IDF/Hadmaa-Handover/src/include/cpp-httplib 
+CXX_INCLUDES = -isystem /home/cvt/Documents/ORI_IDF/Hadmaa-Handover/src/lib/cpp-httplib 
 

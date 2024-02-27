@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/cvt/Documents/ORI_IDF/Hadmaa-Handover/build/src/include/cpp-httplib/cmake_install.cmake")
+  include("/home/cvt/Documents/ORI_IDF/Hadmaa-Handover/build/src/lib/cpp-httplib/cmake_install.cmake")
 
 endif()
 

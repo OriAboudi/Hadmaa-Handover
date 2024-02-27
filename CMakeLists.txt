@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.5)
 project(Http_server)
 
 # set the path to the httplib library
-set(HTTPLIB_PATH ${CMAKE_CURRENT_SOURCE_DIR}/src/include/cpp-httplib)
+set(HTTPLIB_PATH ${CMAKE_CURRENT_SOURCE_DIR}/src/lib/cpp-httplib)
 
 # add the httplib library as a subdirectory
 add_subdirectory(${HTTPLIB_PATH})

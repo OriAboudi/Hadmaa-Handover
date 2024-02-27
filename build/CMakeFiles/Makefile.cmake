@@ -11,9 +11,9 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.16.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.16.3/CMakeSystem.cmake"
-  "../src/include/cpp-httplib/CMakeLists.txt"
-  "../src/include/cpp-httplib/cmake/FindBrotli.cmake"
-  "../src/include/cpp-httplib/httplibConfig.cmake.in"
+  "../src/lib/cpp-httplib/CMakeLists.txt"
+  "../src/lib/cpp-httplib/cmake/FindBrotli.cmake"
+  "../src/lib/cpp-httplib/httplibConfig.cmake.in"
   "/usr/share/cmake-3.16/Modules/BasicConfigVersion-SameMinorVersion.cmake.in"
   "/usr/share/cmake-3.16/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.16/Modules/CMakeCXXInformation.cmake"
@@ -58,7 +58,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/include/cpp-httplib/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/lib/cpp-httplib/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
